@@ -1,0 +1,1 @@
+exiftool -d %Y-%m-%d "-directory<datetimeoriginal" ~/Desktop
