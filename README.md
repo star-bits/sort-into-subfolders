@@ -39,7 +39,7 @@ done
 
 ## Sort by content created (EXIF metadata)
 
-First install [exiftool](https://exiftool.org/)
+Install [exiftool](https://exiftool.org/)
 
 Run shell script:
 ```shell
