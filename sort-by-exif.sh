@@ -1,1 +1,1 @@
-exiftool -d %Y-%m-%d "-directory<datetimeoriginal" ~/Desktop
+exiftool -d %Y-%m-%d "-directory<datetimeoriginal" "$(dirname "$0")"
